@@ -1,0 +1,3 @@
+- [ ] [[Ls Command]]: a list command to see what files are in the current folder
+- [ ] [[Open Command]]: read a files content
+- [ ] [[Write Command]]: a command to write data to a file

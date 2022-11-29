@@ -20,19 +20,75 @@
             }
           },
           {
-            "id": "4464f9b03202d676",
+            "id": "4468add41435ed4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Features/Commands.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8767915f3b401bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dea1b5256905338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/commands/Open Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f37eb237d9e1ad59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/commands/Write Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59b88ad4bc15cdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/commands/Write Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4464f9b03202d676",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TerminalBreakout.md",
+                "file": "Features/commands/Write Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TerminalBreakout.md",
+                "file": "Features/commands/Write Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TerminalBreakout.md"
+                "file": "Features/commands/Write Command.md"
               }
             }
           }
@@ -149,9 +205,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88cf18ff6bd3c785",
+  "active": "59b88ad4bc15cdeb",
   "lastOpenFiles": [
     "README.md",
-    "TerminalBreakout.md"
+    "Command Syntax.md",
+    "Features/commands/Write Command.md",
+    "TerminalBreakout.md",
+    "Features/Commands.md",
+    "Features/commands/Ls Command.md",
+    "Features/commands/Open Command.md"
   ]
 }
