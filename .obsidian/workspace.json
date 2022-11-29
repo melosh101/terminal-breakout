@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "eed41a1f9a2c72c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dafd536ab22808c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88cf18ff6bd3c785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerminalBreakout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4464f9b03202d676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eba94e48fd34543",
+    "type": "split",
+    "children": [
+      {
+        "id": "8272097cb5b9753d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484b4c74986d4282",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "649cd09072526ae6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9858e99ac716f6e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b599313e28d2ff8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d454e8e6e261409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940f635c6a8e1dbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TerminalBreakout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b54b8d0c137a761",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TerminalBreakout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce019b770784083c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b09ef6f582cbc418",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TerminalBreakout.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88cf18ff6bd3c785",
+  "lastOpenFiles": [
+    "README.md",
+    "TerminalBreakout.md"
+  ]
+}
